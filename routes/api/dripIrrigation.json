@@ -1,0 +1,309 @@
+[
+    {
+        "_id": "5dd7f6aaafea5300fc4909ac",
+        "nameOfCrop": "Banana",
+        "wettedArea": 55,
+        "cropFactor": 1,
+        "panEvaporation": [
+            {
+                "_id": "5dd7f6aaafea5300fc4909ae",
+                "pune": 8.33
+            },
+            {
+                "_id": "5dd7f6aaafea5300fc4909ad",
+                "akola": 8.68
+            }
+        ],
+        "rowToRowSpacing": [
+            {
+                "_id": "5dd7f6aaafea5300fc4909b0",
+                "values": 1.5
+            },
+            {
+                "_id": "5dd7f6aaafea5300fc4909af",
+                "values": 1.8
+            }
+        ],
+        "cropToCropSpacing": [
+            {
+                "_id": "5dd7f6aaafea5300fc4909b2",
+                "values": 1.5
+            },
+            {
+                "_id": "5dd7f6aaafea5300fc4909b1",
+                "values": 1.2
+            }
+        ],
+        "numberOfDrippersPerPlant": [
+            {
+                "_id": "5dd7f6aaafea5300fc4909b4",
+                "values": 1
+            },
+            {
+                "_id": "5dd7f6aaafea5300fc4909b3",
+                "values": 1
+            }
+        ],
+        "dripperDischarge": [
+            {
+                "_id": "5dd7f6aaafea5300fc4909b6",
+                "values": 4
+            },
+            {
+                "_id": "5dd7f6aaafea5300fc4909b5",
+                "values": 4
+            }
+        ],
+        "soilType": [
+            {
+                "_id": "5dd7f6aaafea5300fc4909b7",
+                "soilTypes": "Light and Medium"
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "5dd7f9cc31514e1b1864cc50",
+        "nameOfCrop": "Grapes",
+        "wettedArea": 55,
+        "cropFactor": 0.45,
+        "panEvaporation": [
+            {
+                "_id": "5dd7f9cc31514e1b1864cc52",
+                "pune": 8.33
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc51",
+                "akola": 8.68
+            }
+        ],
+        "rowToRowSpacing": [
+            {
+                "_id": "5dd7f9cc31514e1b1864cc55",
+                "values": 1.8
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc54",
+                "values": 2.4
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc53",
+                "values": 2.4
+            }
+        ],
+        "cropToCropSpacing": [
+            {
+                "_id": "5dd7f9cc31514e1b1864cc58",
+                "values": 1.2
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc57",
+                "values": 1.8
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc56",
+                "values": 2.4
+            }
+        ],
+        "numberOfDrippersPerPlant": [
+            {
+                "_id": "5dd7f9cc31514e1b1864cc5b",
+                "values": 1
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc5a",
+                "values": 2
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc59",
+                "values": 2
+            }
+        ],
+        "dripperDischarge": [
+            {
+                "_id": "5dd7f9cc31514e1b1864cc5e",
+                "values": 4
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc5d",
+                "values": 4
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc5c",
+                "values": 4
+            }
+        ],
+        "soilType": [
+            {
+                "_id": "5dd7f9cc31514e1b1864cc61",
+                "soilTypes": "Light and Medium"
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc60",
+                "soilTypes": "Light and Medium"
+            },
+            {
+                "_id": "5dd7f9cc31514e1b1864cc5f",
+                "soilTypes": "Heavy"
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "5dd7fc3331514e1b1864cc62",
+        "nameOfCrop": "Pomegranate",
+        "wettedArea": 33,
+        "cropFactor": 0.9,
+        "panEvaporation": [
+            {
+                "_id": "5dd7fc3331514e1b1864cc64",
+                "pune": 8.33
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc63",
+                "akola": 8.68
+            }
+        ],
+        "rowToRowSpacing": [
+            {
+                "_id": "5dd7fc3331514e1b1864cc67",
+                "values": 3
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc66",
+                "values": 3.6
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc65",
+                "values": 4.5
+            }
+        ],
+        "cropToCropSpacing": [
+            {
+                "_id": "5dd7fc3331514e1b1864cc6a",
+                "values": 3
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc69",
+                "values": 3.6
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc68",
+                "values": 4.5
+            }
+        ],
+        "numberOfDrippersPerPlant": [
+            {
+                "_id": "5dd7fc3331514e1b1864cc6d",
+                "values": 2
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc6c",
+                "values": 2
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc6b",
+                "values": 3
+            }
+        ],
+        "dripperDischarge": [
+            {
+                "_id": "5dd7fc3331514e1b1864cc70",
+                "values": 4
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc6f",
+                "values": 4
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc6e",
+                "values": 4
+            }
+        ],
+        "soilType": [
+            {
+                "_id": "5dd7fc3331514e1b1864cc73",
+                "soilTypes": "Light and Medium"
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc72",
+                "soilTypes": "Light and Medium"
+            },
+            {
+                "_id": "5dd7fc3331514e1b1864cc71",
+                "soilTypes": "Heavy"
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "5dd7fd3e31514e1b1864cc74",
+        "nameOfCrop": "vegetables",
+        "wettedArea": 65,
+        "cropFactor": 0.8,
+        "panEvaporation": [
+            {
+                "_id": "5dd7fd3e31514e1b1864cc76",
+                "pune": 8.33
+            },
+            {
+                "_id": "5dd7fd3e31514e1b1864cc75",
+                "akola": 8.68
+            }
+        ],
+        "rowToRowSpacing": [],
+        "cropToCropSpacing": [],
+        "numberOfDrippersPerPlant": [],
+        "dripperDischarge": [],
+        "soilType": [],
+        "__v": 0
+    },
+    {
+        "_id": "5dd7fd9b31514e1b1864cc77",
+        "nameOfCrop": "Sugarcane",
+        "wettedArea": 65,
+        "cropFactor": 0.75,
+        "panEvaporation": [
+            {
+                "_id": "5dd7fd9b31514e1b1864cc79",
+                "pune": 8.33
+            },
+            {
+                "_id": "5dd7fd9b31514e1b1864cc78",
+                "akola": 8.68
+            }
+        ],
+        "rowToRowSpacing": [
+            {
+                "_id": "5dd7fd9b31514e1b1864cc7a",
+                "values": 1.85
+            }
+        ],
+        "cropToCropSpacing": [],
+        "numberOfDrippersPerPlant": [],
+        "dripperDischarge": [],
+        "soilType": [],
+        "__v": 0
+    },
+    {
+        "_id": "5dd7fe6131514e1b1864cc7b",
+        "nameOfCrop": "flowers",
+        "cropFactor": 1,
+        "panEvaporation": [
+            {
+                "_id": "5dd7fe6131514e1b1864cc7d",
+                "pune": 8.33
+            },
+            {
+                "_id": "5dd7fe6131514e1b1864cc7c",
+                "akola": 8.68
+            }
+        ],
+        "rowToRowSpacing": [],
+        "cropToCropSpacing": [],
+        "numberOfDrippersPerPlant": [],
+        "dripperDischarge": [],
+        "soilType": [],
+        "__v": 0
+    }
+]
